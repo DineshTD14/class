@@ -1,0 +1,33 @@
+             h1
+            {
+                position: sticky; 
+                text-align:center; 
+                font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+                font-style: italic;
+            }
+            .name
+            {
+                font-size:28px;
+                color: black;
+            }
+            .para
+            {
+                
+                 font-size: larger;
+                 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+            }
+            table
+            {
+                
+                border-collapse: collapse;
+            }
+            body
+            {
+                background-image:url(./images/sachin.jpeg);
+                background-repeat: no-repeat;
+                background-position: top right;
+                background-color:#85681A ;
+            }
+
+        
